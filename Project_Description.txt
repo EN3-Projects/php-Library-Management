@@ -1,0 +1,37 @@
+             	Gestion des prêts dans une bibliothèque
+
+Une bibliothèque universitaire souhaite automatiser sa gestion. Cette bibliothèque est gérée par
+un gestionnaire chargé des inscriptions et des relances des lecteurs quand ceux-ci n’ont pas
+rendu leurs ouvrages au-delà du délai autorisé. Les bibliothécaires sont chargés de gérer les
+emprunts et la restitution des ouvrages ainsi que l’acquisition de nouveaux ouvrages.
+
+Il existe trois catégories d’abonné :
+• Les étudiants doivent seulement s’acquitter d’une somme forfaitaire pour une année afin
+d’avoir droit à tous les services de la bibliothèque.
+• L’accès à la bibliothèque est libre pour tous les enseignants.
+• Il est possible d’autoriser des étudiants d’une autre université à s’inscrire
+exceptionnellement comme abonné moyennant le versement d’une cotisation. Le
+nombre d’abonnés externes est limité chaque année à environ 10% des inscrits.
+
+Un nouveau service de consultation du catalogue général des ouvrages doit être mis en place.
+Les ouvrages , souvent acquis en plusieurs exemplaires , sont rangés dans des rayons de la
+bibliothèque. Chaque exemplaire est repéré par une référence gérée dans le catalogue et le code
+du rayon où il est rangé.
+
+Chaque abonné ne peut emprunter plus de trois ouvrages. Le délai d’emprunt d’un ouvrage est
+de trois semaines, il peut cependant être prolongé execeptionnellement à cinq semaines.
+
+1. Vous élaborez le diagramme des cas d’utilisation correspondant à la gestion des prêts dans
+cette bibliothèque.
+2. Elaborez la description textuelle d’au moins 4 des cas d’utilisation et sans oublier les cas
+d’utilisation “ Emprunter ouvrage “, “ Restituer ouvrage “.
+3. Elaborez les diagrammes de séquence des cas d’utilisation “Emprunter ouvrage “,
+“Restituer ouvrage “.
+4. Elaborez le diagramme d’activité du processus de Gestion des prêts dans la bibliothèque.
+5. Elaborez le diagramme de classe de gestion des prêts et en déduire la base de données (ref.
+UML et les Bases de données que je vous enverrai par mail).
+6. Développer une application en java ou php afin d’automatiser le processus de gestion de
+prêt.
+
+N.B.- Vous avez 4 semaines pour réaliser ce projet et il ne doit y avoir que trois (3)
+étudiants par groupe.
